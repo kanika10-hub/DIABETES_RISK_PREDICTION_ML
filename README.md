@@ -169,17 +169,6 @@ and predicts:
 - Final Decision
 
 ---
-
-# Results
-
-Example:
-
-Accuracy : 95%
-
-ROC-AUC : 0.97
-
----
-
 # Project Structure
 
 ```
