@@ -186,9 +186,9 @@ requirements.txt
 # Installation
 
 ```bash
-git clone https://github.com/yourusername/diabetes-risk-prediction-ml.git
+git clone https://github.com/yourusername/DIABETES_RISK_PREDICTION_ML.git
 
-cd diabetes-risk-prediction-ml
+cd DIABETES_RISK_PREDICTION_ML
 
 pip install -r requirements.txt
 ```
@@ -200,16 +200,8 @@ pip install -r requirements.txt
 Open
 
 ```
-notebook/diabetes_risk_prediction.ipynb
+notebook/DiabetesRiskPrediction_LR.ipynb
 ```
-
-or
-
-```bash
-python src/train.py
-```
-
----
 
 # Technologies Used
 
